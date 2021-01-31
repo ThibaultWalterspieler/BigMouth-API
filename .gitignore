@@ -40,3 +40,6 @@ tasks.json
 
 # Docker env files
 *.env
+
+# Firebase 
+firebase.json
